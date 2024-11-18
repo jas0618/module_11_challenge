@@ -14,5 +14,5 @@ columns = ["ID","terrestrial_date","sol","ls","month","min_temp","pressure"]
 df = pd.DataFrame(row, columns=columns)
 
 - using dtypes and astypes to filter for data types 
-- calculate the average temperature by month, coolest month and warmest month 
-- calculate the average pressure and lowest and highest atmospheric pressure
+- calculated the average temperature by month, coolest month and warmest month 
+- calculated the average pressure and lowest and highest atmospheric pressure
