@@ -1,3 +1,4 @@
+Please find attached the notebooks
 Part 1 
 - using beautiful soup to extract all the elements
 - using a for statement to store into a dictionary 
